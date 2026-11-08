@@ -98,3 +98,13 @@ flowchart LR
 B 站 · 潜入那片海_
 
 [访问 B 站主页](https://space.bilibili.com/45680617)
+
+如果 MiniMD 刚好对你有帮助，愿意的话可以随缘赞助一杯咖啡；不赞助也完全不影响使用，感谢每一个使用和反馈。
+
+<p align="center">
+  <img src="images/微信收款码.png" width="300">
+  &nbsp;
+  <img src="images/支付宝收款码.jpg" width="300">
+</p>
+
+<p align="center"><sub>微信收款码 · 支付宝收款码</sub></p>
